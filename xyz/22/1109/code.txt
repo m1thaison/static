@@ -1,0 +1,13 @@
+/* Trang trí nút "Keep reading" (Hãy đọc tiếp): https://trang.ws/3Ec1 */
+.read_more {
+  background: #fff;
+  padding: 6px 11px;
+  border-radius: 25px;
+}
+.read_more_container {
+  background-image: url(//trang.ws/eE2f);
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
