@@ -1,0 +1,2 @@
+<!-- Loại bỏ thanh điều khiển Tumblr: https://thaison.link/A1rD -->
+<link rel="stylesheet" href="//static.tumblr.com/w2cxjnh/21zrnzslg/loai-bo-thanh-dieu-khien-tumblr.css">
