@@ -1,4 +1,0 @@
-/* Gỡ bỏ mục "Xem thêm các bài viết tương tự trên Tumblr": https://thaison.link/09Sz */
-.tagged-page-cta {
-  display: none;
-}
