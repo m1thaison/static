@@ -3,6 +3,6 @@ body::-webkit-scrollbar {
 }
 .page-bg {
   background-repeat: no-repeat !important;
-  background-position: center center !important;
-  filter: blur(3px) !important;
+  background-position: 60% center !important;
+  filter: blur(2px) !important;
 }
